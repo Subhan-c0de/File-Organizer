@@ -8,9 +8,9 @@ This script scans a folder and sorts files into different folders according to t
 
 Example:
 
-Images → .jpg .png  
-Documents → .pdf .txt  
-Python Files → .py
+Images(jpg/png) → .jpg .png  
+Documents(pdf/txt) → .pdf .txt  
+Python Files(py) → .py
 
 ## Features
 
@@ -45,6 +45,6 @@ file3.py
 After running the script:
 
 folder/
-Images/file1.jpg  
-Documents/file2.pdf  
-Python/file3.py
+jpg/file1.jpg  
+pdf/file2.pdf  
+Py/file3.py
